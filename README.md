@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V1ron6
+- 👋 Hi, I’m @V1ron6 (Elvinslyowusu)
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on any project at all
