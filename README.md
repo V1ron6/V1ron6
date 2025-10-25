@@ -69,10 +69,10 @@ I love understanding how systems work, building secure APIs, and crafting effici
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viron-oneil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Elvin-sly-Owusu)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/byteband1t)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/VironONeil)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourname@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/V1ron6)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mindedbusines@gmail.com)
 
 ---
 
@@ -80,5 +80,6 @@ I love understanding how systems work, building secure APIs, and crafting effici
 When I’m not coding or securing systems, I’m exploring new tech tools or watching cybersecurity documentaries.
 
 ---
+contact me on Whatsapp: +233595524660
 
 ⭐️ *“Security isn’t a product, it’s a process.”* — Bruce Schneier
