@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Viron O’Neil**
 
-🚀 **Cybersecurity Trainee | Backend Developer | Full-Stack & Security Enthusiast**
+🚀 ** [ok] |Cybersecurity Trainee | Backend Developer | Full-Stack & Security Enthusiast |**
 
 ---
 
