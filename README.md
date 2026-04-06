@@ -1,18 +1,18 @@
-# 👋 Hey there, I'm **Viron O’Neil**
+#  Hey there, I'm **Viron O’Neil**
 
 🚀 *|Cybersecurity Trainee | Backend Developer | Full-Stack & Security Enthusiast |*
 
 ---
 
-### 💡 About Me
+### About Me
 I’m a passionate tech learner exploring **cybersecurity** and **backend web development**.  
 I love understanding how systems work, building secure APIs, and crafting efficient web apps with a focus on **performance** and **security**.
 
 ---
 
-### 🧠 What I Do
-- 🛠️ Develop **RESTful APIs** with **Node.js** and **Express.js**  
-- 🔐 Practice **ethical hacking** and **system protection** on platforms like TryHackMe  
+###  What I Do
+- Develop **RESTful APIs** with **Node.js** and **Express.js**  
+-  Practice **ethical hacking** and **system protection** on platforms like TryHackMe  
 - ⚙️ Build secure and scalable backend systems  
 - 🧩 Create modern interfaces with **React.js**
 
