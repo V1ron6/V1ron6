@@ -1,7 +1,8 @@
 #  Hey there, I'm **Viron O’Neil**
 
-🚀 *|Cybersecurity Trainee | Backend Developer | Full-Stack & Security Enthusiast |*
-
+*|Cybersecurity Trainee | Backend Developer | Full-Stack & Security Enthusiast |*
+[portfolio]
+http://bytebandit.vercel.app
 ---
 
 ### About Me
@@ -13,30 +14,30 @@ I love understanding how systems work, building secure APIs, and crafting effici
 ###  What I Do
 - Develop **RESTful APIs** with **Node.js** and **Express.js**  
 -  Practice **ethical hacking** and **system protection** on platforms like TryHackMe  
-- ⚙️ Build secure and scalable backend systems  
-- 🧩 Create modern interfaces with **React.js**
+-  Build secure and scalable backend systems  
+-  Create modern interfaces with **React.js**
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
-#### 💻 **Languages**
+####  **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-#### ⚙️ **Frameworks & Libraries**
+####  **Frameworks & Libraries**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 
-#### 🗄️ **Databases**
+####  **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### 🧩 **Tools & Platforms**
+####  **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -45,30 +46,30 @@ I love understanding how systems work, building secure APIs, and crafting effici
 
 ---
 
-### 🔭 Current Focus
+###  Current Focus
 - Building secure **APIs** and improving **backend performance**
 - Advancing **cybersecurity** and **ethical hacking** skills  
 - Learning **advanced authentication**, **encryption**, and **threat detection**
 
 ---
 
-### 📂 Featured Projects
-- 🗒️ **[Note-Taking API](#)** — CRUD operations with Express.js & MongoDB  
-- 🔐 **[Cyber Lab Practice](#)** — Hands-on cybersecurity and penetration testing tasks  
-- 🌐 **[Personal Portfolio](#)** — My portfolio showcasing projects and skills  
+###  Featured Projects
+-  **[Note-Taking API](#)** — CRUD operations with Express.js & MongoDB  
+-  **[Cyber Lab Practice](#)** — Hands-on cybersecurity and penetration testing tasks  
+-  **[Personal Portfolio](#)** — My portfolio showcasing projects and skills  
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
-| ![Viron's GitHub stats](https://github-readme-stats.vercel.app/api?username=VironONeil&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VironONeil&layout=compact&theme=tokyonight) |
+| ![Viron's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1ron6&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VironONeil&layout=compact&theme=tokyonight) |
 | --- | --- |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VironONeil&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=V1ron6&theme=tokyonight)
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Elvin-sly-Owusu)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/byteband1t)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/V1ron6)
@@ -76,10 +77,10 @@ I love understanding how systems work, building secure APIs, and crafting effici
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 When I’m not coding or securing systems, I’m exploring new tech tools or watching cybersecurity documentaries.
 
 ---
 contact me on Whatsapp: +233595524660
 
-⭐️ *“Security isn’t a product, it’s a process.”* — Bruce Schneier
+ *“Security isn’t a product, it’s a process.”* — Bruce Schneier
